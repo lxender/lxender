@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+I thought this looked fancy, so I wanted to have it too. I might make it interesting someday, we'll see.
 
 <!--
 **lxender/lxender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
